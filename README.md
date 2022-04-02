@@ -28,7 +28,7 @@
 <p align="center">
 </p>
 <br />
-<p>In my latest project, I created an <a href="https://github.com/info-hossam/socially">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
+<p>�</p>
 
 :muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
 
