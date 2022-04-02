@@ -15,6 +15,7 @@
 
 <p align="center">
   <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/splash.jpg" />
+  <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/auth.jpg" />
   <!-- <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/auth.jpg" /> -->
  <a href="https://github.com/info-hossam/socially">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=socially&theme=tokyonight" />
