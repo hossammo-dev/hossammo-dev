@@ -17,19 +17,8 @@
   <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/splash.jpg" />
   <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/auth.jpg" />
  <a href="https://github.com/info-hossam/socially">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=sos-animals&theme=tokyonight" />
-</a>
-  <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=the-collab-lab&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
-</a>
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
-</a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
-</a>
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=socially&theme=tokyonight" />
+
 </p>
 
 <br />
