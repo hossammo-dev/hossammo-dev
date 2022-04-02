@@ -28,16 +28,7 @@
 <p align="center">
 </p>
 <br />
-<p>�</p>
-
-:muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
-
-<!--:eyes: I’m currently learning ... TypeScript <br />
-:raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
-:dizzy_face: I’m looking for help with ... TypeScript<br />-->
-
-💬 Ask me about anything related to... my content. I am happy to help.<br />
-:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. <br />
+<p></p>
 
 <br />
 <br />
