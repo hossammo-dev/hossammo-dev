@@ -14,8 +14,8 @@
 <br />
 
 <p align="center">
-  <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/splash.jpg" />
-  <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/splash.jpg" />
+  <img width="400" height="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/splash.jpg" />
+  <img width="400" height="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/auth.jpg" />
  <a href="https://github.com/YuriDevAT/sos-animals">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
 </a>
