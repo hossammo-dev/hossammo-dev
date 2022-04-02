@@ -14,10 +14,10 @@
 <br />
 
 <p align="center">
-  <img width="400" height="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/splash.jpg" />
-  <img width="400" height="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/auth.jpg" />
- <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+  <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/splash.jpg" />
+  <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/auth.jpg" />
+ <a href="https://github.com/info-hossam/socially">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=sos-animals&theme=tokyonight" />
 </a>
   <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=the-collab-lab&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
