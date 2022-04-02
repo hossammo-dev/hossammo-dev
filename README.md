@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hi there, I'm Hossam </h1>
 </p>
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
+<a href=""><img src="![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) alt="Portfolio" /></a>&nbsp;
   
    <a href="https://www.linkedin.com/in/hossam-mohammad-9965791a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
