@@ -48,7 +48,7 @@
 <a href="https://dart.dev/" target="_blank"> <img src="https://styles.redditmedia.com/t5_2sut9/styles/communityIcon_f1uukpexwpj11.jpg" alt="react" width="40" height="40"/> </a>
 <!--<a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/flutter-3521432-2944876.png" alt="nextjs" width="40" height="40"/> </a>-->
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="GitHub" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/github-1521500-1288242.png" />
+<img alt="GitHub" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/github-159-721954.png" />
    </p>
 <br />
 <p align="center">
@@ -60,7 +60,7 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=info-hossam&theme=radical&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api?username=info-hossam&theme=radical&show_icons=true" width="420"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=info-hossam&layout=compact&theme=radical" width="400" />
 </p>
 
