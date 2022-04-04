@@ -34,7 +34,7 @@
   
 <p>
   <h2 align="center"></h2>
-<h2 align="center"> Languages and Tools</h2>
+<h3 align="center"> Languages and Tools</h3>
 </p>
 <br />
 <p align="center">
