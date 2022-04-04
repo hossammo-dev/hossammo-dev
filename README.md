@@ -22,14 +22,25 @@
   I'm Hossam, A self-taught Egyptian enthusiastic Junior Software Mobile Developer, I like translating mobile designs into code and making applications that help people and make their lives simple and easy.</p>
 <br />
 
-<h2 align="center">My Favorite Projects 💻</h2>
+<h2 align="center">My Favorite Repos 💻</h2>
 <br />
 
 <p align="center">
-  <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/splash.jpg" />
-  <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/auth.jpg" />
+<!--   <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/splash.jpg" />
+  <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/auth.jpg" /> -->
  <a href="https://github.com/info-hossam/socially">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=socially&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=socially&theme=tokyonight" />
+   
+ <a href="https://github.com/info-hossam/classic_flutter_news">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=classic_flutter_news&theme=tokyonight" />
+   
+</p>
+   
+ 
+   
+<p align="center">
+   <a href="https://github.com/info-hossam/problem_solving">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=problem_solving&theme=tokyonight" />
 </p>
   
 <p>
