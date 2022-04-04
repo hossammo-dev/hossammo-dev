@@ -62,6 +62,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=info-hossam&theme=radical&show_icons=true" width="420"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=info-hossam&layout=compact&theme=radical" width="400" />
 </p>
+  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=info-hossam.info-hossam)
 
 ---
 
