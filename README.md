@@ -14,7 +14,7 @@
 </p>
 <br />
 
-<p> An Egyptian Enthusiastic Software Engineer and Mobile Application Developer using Flutter.</p>
+<p> I'm Hossam, A self-taught Egyptian enthusiastic Junior Software Mobile Developer, I like making mobile applications that help people and make their lives simple and easy.</p>
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
