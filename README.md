@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>&nbsp;
 </p>
+<br />
 
 <h2 align="center">About me 😇</h2>
 <p align="center"> 
@@ -29,26 +30,10 @@
   <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/auth.jpg" />
  <a href="https://github.com/info-hossam/socially">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=socially&theme=tokyonight" />
-
 </p>
-
-<!--
-  
-  <br />
-
-<h2 align="center">About me 😇</h2>
-<p align="center">
-</p>
-<br />
-<p></p>
-
-<br />
-<br />
-  
-  -->
   
 <p>
-<h3 align="center"> Languages and Tools</h3>
+<h2 align="center"> Languages and Tools</h2>
 </p>
 <br />
 <p align="center">
