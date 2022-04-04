@@ -17,6 +17,17 @@
 <p align="center"> 
   I'm Hossam, A self-taught Egyptian enthusiastic Junior Software Mobile Developer, I like translating mobile designs into code and making applications that help people and make their lives simple and easy.</p>
 <br />
+  
+<br />
+
+<h2 align="center">About me 😇</h2>
+<p align="center">
+</p>
+<br />
+<p></p>
+
+<br />
+<br />
 
 <h2 align="center">My Favorite Projects 💻</h2>
 <br />
@@ -29,7 +40,9 @@
 
 </p>
 
-<br />
+<!--
+  
+  <br />
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
@@ -39,6 +52,9 @@
 
 <br />
 <br />
+  
+  -->
+  
 <p>
 <h3 align="center"> Languages and Tools</h3>
 </p>
