@@ -2,32 +2,28 @@
   <h1 align="center"><b>Hallo Leute🖐, Ich bin Hossam</h1>
 </p>
 <p align="center">
-<a href=""><img src="![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) alt="Portfolio" /></a>&nbsp;
+<!-- <a href=""><img src="![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) alt="Portfolio" /></a>&nbsp; -->
   
    <a href="https://www.linkedin.com/in/hossam-mohammad-9965791a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
   
   <a href="https://www.facebook.com/hossammo99/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-<a href="https://twitter.com/hossammo9996"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+  <a href="https://twitter.com/hossammo9996">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>&nbsp;
 </p>
-<br />
-
 <br />
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
 </p>
 <br />
-<p></p>
-
-<br />  
   
 <p align="center"> 
   I'm Hossam, A self-taught Egyptian enthusiastic Junior Software Mobile Developer, I like translating mobile designs into code and making applications that help people and make their lives simple and easy.</p>
-<br />
-  
 <br />
 
 <h2 align="center">My Favorite Projects 💻</h2>
