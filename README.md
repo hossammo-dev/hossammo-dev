@@ -58,12 +58,7 @@
 
 <br />
 <p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=info-hossam&theme=radical&show_icons=true" width="420"/> -->
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=info-hossam&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>  
-  
+<img src="https://github-readme-stats.vercel.app/api?username=info-hossam&theme=radical&show_icons=true" width="420"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=info-hossam&layout=compact&theme=radical" width="400" />
 </p>
 
