@@ -14,7 +14,8 @@
 </p>
 <br />
 
-<p> I'm Hossam, A self-taught Egyptian enthusiastic Junior Software Mobile Developer, I like translating mobile designs into code and making applications that help people and make their lives simple and easy.</p>
+<p align="center"> 
+  I'm Hossam, A self-taught Egyptian enthusiastic Junior Software Mobile Developer, I like translating mobile designs into code and making applications that help people and make their lives simple and easy.</p>
 <br />
 
 <h2 align="center">My Favorite Projects 💻</h2>
