@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Hossam </h1>
+  <h1 align="center"><b>Hallo Leute🖐, Ich bin Hossam</h1>
 </p>
 <p align="center">
 <a href=""><img src="![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) alt="Portfolio" /></a>&nbsp;
@@ -14,7 +14,7 @@
 </p>
 <br />
 
-<p> I'm Hossam, A self-taught Egyptian enthusiastic Junior Software Mobile Developer, I like making mobile applications that help people and make their lives simple and easy.</p>
+<p> I'm Hossam, A self-taught Egyptian enthusiastic Junior Software Mobile Developer, I like translating mobile designs into code and making applications that help people and make their lives simple and easy.</p>
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
@@ -23,7 +23,6 @@
 <p align="center">
   <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/splash.jpg" />
   <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/auth.jpg" />
-  <!-- <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/auth.jpg" /> -->
  <a href="https://github.com/info-hossam/socially">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=socially&theme=tokyonight" />
 
