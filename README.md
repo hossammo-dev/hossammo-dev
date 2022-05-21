@@ -29,10 +29,10 @@
 <!--   <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/splash.jpg" />
   <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/auth.jpg" /> -->
  <a href="https://github.com/info-hossam/socially">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=socially&theme=tokyonight" />
+ <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=socially&theme=tokyonight" />
    
   <a href="https://github.com/info-hossam/pizza_order">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=pizza_order&theme=tokyonight" />
+ <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=pizza_order&theme=tokyonight" />
    
 </p>
    
@@ -40,7 +40,7 @@
    
 <p align="center">
    <a href="https://github.com/info-hossam/problem_solving">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=problem_solving&theme=tokyonight" />
+ <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=problem_solving&theme=tokyonight" />
 </p>
   
 <p>
