@@ -31,7 +31,7 @@ A self-taught Egyptian Junior Software Mobile Developer, I like translating mobi
 <br>
 <hr>
 
-<h2 align="left">⚡️ Connect with me:</h2>
+<h2 align="left">⚡️ Contact with me:</h2>
 <p align="left">
 <a href="https://twitter.com/hossammo9996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hossam-mohammad-9965791a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>
