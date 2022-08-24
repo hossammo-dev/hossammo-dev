@@ -46,7 +46,7 @@ A self-taught Egyptian Junior Software Mobile Developer, I like translating mobi
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=info-hossam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="info-hossa" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=info-hossam&show_icons=true&locale=en&theme=tokyonight" alt="info-hossam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=info-hossam&&theme=tokyonight" alt="info-hossam" /></p>
