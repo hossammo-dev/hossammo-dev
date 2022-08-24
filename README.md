@@ -1,76 +1,36 @@
-<p>
-  <h1 align="center"><b>Hallo Leute🖐, Ich bin Hossam</h1>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
+<h1 align="center">Hello leute 👋, Ich Heieße Hossam Mohammad</h1>
+<h3 align="center">A self-taught Egyptian Junior Software Mobile Developer, I like translating mobile designs into code and making applications that help people and make their lives simple and easy</h3>
+<img align="right" alt="Programming" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=info-hossam&label=Profile%20views&color=0e75b6&style=flat" alt="visitors" /> </p>
+
+<p align="left"> <a href="https://twitter.com/hossammo9996" target="blank"><img src="https://img.shields.io/twitter/follow/hossammo9996?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
+
+- 🔭 I’m currently working on ** **
+
+- 🌱 I’m currently learning **Flutter**
+
+- 💬 Ask me about **Flutter**
+
+- 📫 How to reach me **info.hossammohammed@gmail.com**
+
+- ⚡ Quick fact **I like meeting new people**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hossammo9996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hossam-mohammad-9965791a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hossammo99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishav_chanda" height="30" width="40" /></a>
+
 </p>
-<p align="center">
-<!-- <a href=""><img src="![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) alt="Portfolio" /></a>&nbsp; -->
-  
-   <a href="https://www.linkedin.com/in/hossam-mohammad-9965791a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
-  
-  <a href="https://www.facebook.com/hossammo99/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://twitter.com/hossammo9996">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>&nbsp;
-</p>
-<br />
 
-<h2 align="center">About me 😇</h2>
-<p align="center"> 
-  I'm Hossam, A self-taught Egyptian enthusiastic Junior Software Mobile Developer, I like translating mobile designs into code and making applications that help people and make their lives simple and easy.</p>
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<h2 align="center">My Favorite Repos 💻</h2>
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=info-hossam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="info-hossa" /></p>
 
-<p align="center">
-<!--   <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/splash.jpg" />
-  <img width="400" src="https://github.com/info-hossam/socially/blob/main/screenshots/auth.jpg" /> -->
- <a href="https://github.com/info-hossam/socially">
- <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=socially&theme=tokyonight" />
-   
-   
-  <a href="https://github.com/info-hossam/pizza_order">
- <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=pizza_order&theme=tokyonight" />
-   
-</p>
-   
- 
-   
-<p align="center">
-   <a href="https://github.com/info-hossam/problem_solving">
- <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=info-hossam&repo=problem_solving&theme=tokyonight" />
-</p>
-  
-<p>
-  <h2 align="center"></h2>
-<h3 align="center"> Languages and Tools</h3>
-</p>
-<br />
-<p align="center">
-<a href="https://dart.dev/" target="_blank"> <img src="https://styles.redditmedia.com/t5_2sut9/styles/communityIcon_f1uukpexwpj11.jpg" alt="react" width="40" height="40"/> </a>
-<a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/flutter-3521432-2944876.png" alt="nextjs" width="40" height="40"/> </a>
-<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="GitHub" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/github-159-721954.png" />
-   </p>
-<br />
-<p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</p>
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=info-hossam&show_icons=true&locale=en&theme=tokyonight" alt="info-hossam" /></p>
 
----
-
-<br />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=info-hossam&theme=radical&show_icons=true" width="420"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=info-hossam&layout=compact&theme=radical" width="400" />
-</p>
-  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=info-hossam.info-hossam)
-
----
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=info-hossam&&theme=tokyonight" alt="info-hossam" /></p>
