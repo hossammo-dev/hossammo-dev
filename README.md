@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
-<h1 align="center">Hello leute 👋, Ich Heieße Hossam Mohammad</h1>
+<h1 align="center">Hello leute 👋, Ich Heiße Hossam Mohammad</h1>
 <h3 align="center">A self-taught Egyptian Junior Software Mobile Developer, I like translating mobile designs into code and making applications that help people and make their lives simple and easy</h3>
 <img align="right" alt="Programming" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
