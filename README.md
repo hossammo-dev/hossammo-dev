@@ -30,7 +30,10 @@ A self-taught Egyptian Junior Software Mobile Developer, I like translating mobi
 <br>
 <br>
 <hr>
-
+<h2 align="left">⚡️ Trophies </h2>
+   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=info-hossam&theme=onedark&margin-w=10&margin-h=10&no-frame=true&row=1" alt="trophies" /></a> </p>
+  
+<hr>
 <h2 align="left">⚡️ Contact with me:</h2>
 <p align="left">
 <a href="https://twitter.com/hossammo9996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
