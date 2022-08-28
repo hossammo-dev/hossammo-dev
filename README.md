@@ -12,8 +12,9 @@ A self-taught Egyptian Junior Software Mobile Developer, I like translating mobi
 
 <br>
 <hr>
+<!-- <img align="right" alt="Programming" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-<img align="right" alt="Programming" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Programming" width="400" src="https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-85a5-ab6ab54aa4d9.gif">
 
 <h2>⚡️ Some Facts </h2>
 
