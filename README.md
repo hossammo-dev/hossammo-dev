@@ -57,4 +57,4 @@ A self-taught Egyptian Junior Software Mobile Developer, I like translating mobi
 <p><img align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=hossammo-dev&theme=dark&background=000000" alt="hossammo-dev" /></p>
 
 <hr>
-<h3 align="center"> I'm very gald for your visit and its nice to meet you, see you later!👋 </h3>
+<h3 align="center"> I'm very gald for your visit and it's nice to meet you, see you later!👋 </h3>
